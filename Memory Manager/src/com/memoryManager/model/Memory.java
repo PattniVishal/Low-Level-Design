@@ -1,4 +1,4 @@
-package com.memoryManager;
+package com.memoryManager.model;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,5 +14,9 @@ public class Memory {
 
     public List<Process> getProcessList() {
         return processList;
+    }
+
+    public int getMaxCapacity() {
+        return maxCapacity;
     }
 }

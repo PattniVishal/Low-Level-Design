@@ -1,4 +1,4 @@
-package com.memoryManager;
+package com.memoryManager.model;
 
 import java.util.LinkedList;
 import java.util.List;
