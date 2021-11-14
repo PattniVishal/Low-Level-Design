@@ -13,4 +13,4 @@
 <br>
 
 ### Class Diagram
-![Class Diagram!](../../../TicTacToe_class_diagram.svg)
+![Class Diagram!](./TicTacToe_class_diagram.svg)
