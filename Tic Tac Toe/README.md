@@ -6,7 +6,7 @@
 
 <br>
 
-####Future Scope:  
+#### Future Scope:  
 * Add undo feature to the game.
 * Rules to decide the winner can be changed.
 
