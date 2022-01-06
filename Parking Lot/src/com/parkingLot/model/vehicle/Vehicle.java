@@ -1,4 +1,6 @@
-package com.parkingLot.model;
+package com.parkingLot.model.vehicle;
+
+import com.parkingLot.model.ticket.ParkingTicket;
 
 public class Vehicle {
     String registrationNumber;
